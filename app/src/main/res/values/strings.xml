@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AdsBannerTemplate</string>
+    <string name="app_name">MaxAdsBanner</string>
+    <string name="ad_unit_id">YOUR_ADD_UNIT_VALUE_HERE</string>
 </resources>

@@ -1,6 +1,7 @@
-# MaxAdsBanner
+# AdsBannerMax
 
-This is a minimal application, only featuring an activity. It is meant to be cloned to study Max SDK performance.
+This is a minimal application, only featuring an activity. It is meant to be
+cloned to study energy consumption of the AppLovin MAX advertising third-party libraries.
 
 ## Scenario
 
